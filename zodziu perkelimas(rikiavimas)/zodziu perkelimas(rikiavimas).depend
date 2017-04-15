@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492275875 source:c:\users\drman\desktop\drmantas project 1\zodziu perkelimas(rikiavimas)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
